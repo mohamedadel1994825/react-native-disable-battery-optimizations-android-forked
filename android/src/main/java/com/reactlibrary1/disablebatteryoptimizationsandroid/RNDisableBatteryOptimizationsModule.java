@@ -1,4 +1,4 @@
-package com.reactlibrary.disablebatteryoptimizationsandroid;
+package com.reactlibrary1.disablebatteryoptimizationsandroid;
 
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;

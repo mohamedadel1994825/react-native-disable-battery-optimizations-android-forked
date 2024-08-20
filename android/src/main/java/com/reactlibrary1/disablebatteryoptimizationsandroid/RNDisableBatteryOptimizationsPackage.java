@@ -1,4 +1,4 @@
-package com.reactlibrary.disablebatteryoptimizationsandroid;
+package com.reactlibrary1.disablebatteryoptimizationsandroid;
 
 import java.util.Arrays;
 import java.util.Collections;
